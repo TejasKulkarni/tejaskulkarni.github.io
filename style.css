@@ -464,26 +464,26 @@ a.top-scroll:hover {
     }
 }
 
-@media (max-width: 575px) {}
-.caption h1 {
-    font-size: 1.9rem;
-    letter-spacing: 0.1rem;
-    padding-bottom: 0.4rem;
-}
+@media (max-width: 575px) {
+    .caption h1 {
+        font-size: 1.9rem;
+        letter-spacing: 0.1rem;
+        padding-bottom: 0.4rem;
+    }
 
-.caption h3 {
-    font-size: 1.2rem;
-    padding-bottom: 1rem;
-}
+    .caption h3 {
+        font-size: 1.2rem;
+        padding-bottom: 1rem;
+    }
 
-.btn-lg {
-    padding: .4rem .9rem;
-    font-size: 0.9rem;
+    .btn-lg {
+        padding: .4rem .9rem;
+        font-size: 0.9rem;
+    }
+    .narrow {
+    width: 85%; 
+    }
 }
-.narrow {
-   width: 85%; 
-}
-
 
 
 
